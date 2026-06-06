@@ -1,0 +1,21 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#090A0D"/>
+  <circle cx="930" cy="80" r="280" fill="#35D39A" fill-opacity="0.08"/>
+  <circle cx="1020" cy="520" r="260" fill="#35D39A" fill-opacity="0.06"/>
+  <rect x="74" y="74" width="1052" height="482" rx="32" fill="white" fill-opacity="0.03" stroke="white" stroke-opacity="0.08"/>
+  <rect x="110" y="112" width="56" height="56" rx="16" fill="#0F1217" stroke="#35D39A" stroke-opacity="0.3"/>
+  <path d="M138 122L157 133V155L138 166L119 155V133L138 122Z" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+  <text x="200" y="152" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Lexora</text>
+  <text x="110" y="252" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">
+    Language reading assistant
+  </text>
+  <text x="110" y="324" fill="white" fill-opacity="0.74" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">
+    for the web
+  </text>
+  <text x="110" y="408" fill="white" fill-opacity="0.7" font-family="Arial, Helvetica, sans-serif" font-size="28">
+    Translation, explanation, context, pronunciation, and Japanese reading support —
+  </text>
+  <text x="110" y="448" fill="white" fill-opacity="0.7" font-family="Arial, Helvetica, sans-serif" font-size="28">
+    without leaving the page.
+  </text>
+</svg>
