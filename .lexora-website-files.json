@@ -1,7 +1,7 @@
 [
   ".nojekyll",
   "404.html",
-  "assets/BaseLayout.B72ODzxo.css",
+  "assets/BaseLayout.DjHH7ITx.css",
   "brand/extension-icon128.png",
   "brand/extension-icon16.png",
   "brand/extension-icon32.png",
@@ -14,8 +14,12 @@
   "logo-mark.svg",
   "og-default.svg",
   "privacy/index.html",
-  "screenshots/install-flow.svg",
-  "screenshots/panel-preview.svg",
+  "product/notebook-mobile.webp",
+  "product/notebook.webp",
+  "product/reading-en-mobile.webp",
+  "product/reading-en.webp",
+  "product/reading-ja-mobile.webp",
+  "product/reading-ja.webp",
   "security/index.html",
   "support/index.html"
 ]
